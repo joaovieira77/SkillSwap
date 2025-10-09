@@ -8,12 +8,13 @@ SkillSwap is a full-stack web application that enables users to exchange skills 
 
 ## 👥 Project Members
 
-| Name   | Role                        | GitHub Username                          |
-|--------|-----------------------------|-------------------------------------------|
-| João   | Backend & Frontend          | [@joaovieira77](https://github.com/joaovieira77) |
-| Hania  | Frontend                    | [@HaniaA4](https://github.com/HaniaA4)           |
-| Arwa   | Frontend & UX/UI            | [@arwaaziz32](https://github.com/arwaaziz32)     |
-| Pedro  | Design                      | —                                         |
+|   | Name   | Role                        | GitHub Username                          |
+|---|--------|-----------------------------|-------------------------------------------|
+| 🪄 | João   | Backend & Frontend          | [@joaovieira77](https://github.com/joaovieira77) |
+| 💎 | Hania  | Frontend                    | [@HaniaA4](https://github.com/HaniaA4)           |
+| ☺️ | Arwa   | Frontend & UX/UI            | [@arwaaziz32](https://github.com/arwaaziz32)     |
+| 🌍 | Pedro  | Design                      | —                                         |
+
 
 
 
