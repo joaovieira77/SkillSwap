@@ -13,7 +13,7 @@ SkillSwap is a full-stack web application that enables users to exchange skills 
 | 🪄 | João   | Backend & Frontend          | [@joaovieira77](https://github.com/joaovieira77) |
 | 💎 | Hania  | Frontend                    | [@HaniaA4](https://github.com/HaniaA4)           |
 | ☺️ | Arwa   | Frontend & UX/UI            | [@arwaaziz32](https://github.com/arwaaziz32)     |
-| 🌍 | Pedro  | Design                      | —                                         |
+| 🌍 | Pedro  | Design                      | [@Verdocas](https://github.com/Verdocas)         |
 
 
 
